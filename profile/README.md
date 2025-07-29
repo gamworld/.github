@@ -24,9 +24,9 @@ Understanding the factors that directly affect your ability to consistently land
 
 ### 1. Mouse Sensitivity & DPI
 
-**-** Too fast or too slow ruins control. Use a sensitivity converter when switching from other FPS games.
+**-** Too fast or too slow ruins control. Use a sensitivity converter when switching from other [FPS games](https://www.reddit.com/r/FPSGames/).
 
-**-** Match your muscle memory from games like Valorant, CS:GO, or Apex.
+**-** Match your muscle memory from games lke Valorant, CS:GO, or Apex.
 
 ### 2. Crosshair Placement
 
@@ -84,7 +84,7 @@ You can gain massive insight by watching how elite players manage their aim, pee
 
 ### 7. Combine Cards with Accuracy Boosts
 
-FragPunk's Shard Cards are more than simply a gimmick; when combined with an aim-focused attitude, they can revolutionize the [game](https://en.wikipedia.org/wiki/Game).  Cards that increase headshot damage, lessen recoil, or steady your bullets after jumping or running are good choices.
+FragPunk's Shard Cards are more than simply a gimmick; when combined with an aim-focused attitude, they can revolutionize the game.  Cards that increase headshot damage, lessen recoil, or steady your bullets after jumping or running are good choices.
 
 ## Summary 
 
