@@ -56,7 +56,7 @@ Understanding the factors that directly affect your ability to consistently land
 
 <img src="https://i.ibb.co/7NWYpLm4/accuracy-in-fragpunk.jpg" alt="headshot accuracy in fragpunk" border="0">
 
-Now that we've explored what effects your aim, here are five game-changing techniques for enhancing your FragPunk headshot accuracy. Here are five game-changing tricks to dramatically improve your accuracy;
+Now that we've explored what effects your aim, here are Seven game-changing techniques for enhancing your FragPunk headshot accuracy. Here are Seven game-changing tricks to dramatically improve your accuracy;
 
 ### 1. Use Aim Trainers (Aim Lab, Kovaak’s)
 
@@ -90,7 +90,7 @@ FragPunk's Shard Cards are more than simply a gimmick; when combined with an aim
 
 Mastering headshot accuracy in FragPunk requires more than just response time; it’s a synergy of mechanical consistency, environmental awareness, and system optimization. 
 
-By following these five proven tips with discipline and intentionality, you will not only increase your kill potential but also solidify your role as a high-impact player in any match.
+By following these Seven proven tips with discipline and intentionality, you will not only increase your kill potential but also solidify your role as a high-impact player in any match.
 
 
 **About Author;**
